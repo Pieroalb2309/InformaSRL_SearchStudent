@@ -1,0 +1,10 @@
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.csproj.AssemblyReference.cache
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.Form1.resources
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.Properties.Resources.resources
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.csproj.GenerateResource.cache
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.csproj.CoreCompileInputs.cache
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\bin\Debug\SearchFilterStudentView.exe.config
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\bin\Debug\SearchFilterStudentView.exe
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\bin\Debug\SearchFilterStudentView.pdb
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.exe
+D:\Documentos\LPOO\Informa_SRL\SearchFilterStudent\SearchFilterStudentView\obj\Debug\SearchFilterStudentView.pdb
